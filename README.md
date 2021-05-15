@@ -2,8 +2,8 @@
 
 ##  Machine Learning Approach:
 Techniques used for balancing the data: -
-a. Random Oversampling 
-b. Synthetic Minority Oversampling Technique(SMOTE)
+1. Random Oversampling 
+2. Synthetic Minority Oversampling Technique(SMOTE)
 
 Algorithms used in this approach: -
 1. Logistic Regression
